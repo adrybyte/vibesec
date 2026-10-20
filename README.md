@@ -27,12 +27,14 @@ Copia el archivo de ejemplo y añade tus propias credenciales de Groq/GCP.
 
 ```bash
 cp .env.example .env.local
-Inicia el servidor de desarrollo:
 ```
+Inicia el servidor de desarrollo:
+
 ```bash
 npm run dev
-Abre http://localhost:3000 en tu navegador para ver la aplicación.
 ```
+Abre http://localhost:3000 en tu navegador para ver la aplicación.
+
 🛠️ Stack Tecnológico
 Framework: Next.js (App Router)
 
