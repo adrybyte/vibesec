@@ -2,7 +2,6 @@
 
 VibeSec es un microSaaS de ciberseguridad diseñado específicamente para el ecosistema *vibecoding*. Escanea repositorios en busca de secretos expuestos y realiza pruebas de estrés (fuzzing) contra ataques de inyección de prompts en endpoints de inteligencia artificial.
 
-![VibeSec UI](https://via.placeholder.com/800x400.png?text=VibeSec+Soft+Terminal+Aesthetic)
 
 ## ✨ Características Principales
 
