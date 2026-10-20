@@ -19,19 +19,20 @@ Para ejecutar este proyecto en tu propio entorno, necesitarás configurar tus pr
    cd vibesec
 Instala las dependencias:
 
-   ```bash
+```bash
 npm install
+```
 Configura el entorno:
 Copia el archivo de ejemplo y añade tus propias credenciales de Groq/GCP.
 
-   ```bash
+```bash
 cp .env.example .env.local
 Inicia el servidor de desarrollo:
-
-   ```bash
+```
+```bash
 npm run dev
 Abre http://localhost:3000 en tu navegador para ver la aplicación.
-
+```
 🛠️ Stack Tecnológico
 Framework: Next.js (App Router)
 
